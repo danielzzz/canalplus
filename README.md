@@ -1,6 +1,15 @@
 canalplus
 =========
 
+*** this project is no longer maintained ***
+
+in an era where online tv did not existed very much yet, I created this projet to capture my tv signal and stream it online, so I could watch any channel on my mobile.
+
+it featured:
+* data capture
+* adruino ir dongle to switch channels (sic!)
+* vlc transcoding and streaming to mobile
+
 vlc capture and streaming scripts, arduino+node app for remote control, mobile compatible
 
 I use it to stream canal plus around the house vía wifi, and to watch and control it using my android phone.
